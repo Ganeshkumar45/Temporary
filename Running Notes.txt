@@ -1,0 +1,204 @@
+DevOps With AWS
+
+Basics
+
+1.AWS(10 Services which is required for DevOps)
+2.Linux Administration
+3.Shellscripting(Bash)
+
+Core DevOps
+
+1.Git and GitHub
+2.Maven
+3.Code Quality
+4.Nexus
+5.Tomcat
+6.Jenkins
+
+Advanced DevOps
+
+1.Docker
+2.Kubernetes
+3.ansible
+
+
+=================================================
+
+Linux commands
+
+Folder/directory creation commands
+
+
+mkdir <Name of the folder>
+
+for ex: mkdir Sandhya
+
+
+multiple folders/directory creation
+
+ex: mkdir -p a/b/c/d
+
+cd change directory/folder
+
+ex: cd divya -->Sandhya
+
+cd Sandhya
+
+ls -->list the data
+
+ll it will give comple details of your directory
+
+
+
+pwd--present working directory
+
+cd .. back one directory
+
+
+===========12/02/2025===========
+mkdir
+ls
+cd
+cd ..
+pwd
+
+How to delete folder/directory
+
+rmdir <foldername>
+
+rmdir Rama
+
+all directories deletetion
+
+rm -rf *
+
+file commands
+
+touch <filename>
+
+touch test1
+
+touch fil1 file2 file3
+
+touch file(1..5)
+
+how to delete file or files
+
+rm <filename>
+
+rm file1 file2 file3
+
+copy command one file1 to another file
+
+cp file1 file2
+cp file1 file5
+
+
+move command rename any file
+
+mv fil1 file2
+
+
+cat command
+ cat filename display the data top to bottom
+
+tac filename display the data bottom to top
+
+
+Editor in Linux
+
+3 types of editors
+
+1. Vi
+2. Vim
+
+ ex: vi filename
+
+Insertion mode-->pres I-->Newpage open-->write your data
+save mode-->esc + shift:wq!-->hit enter
+exit mode-->Shift:q!
+
+3 nano--->Another editor
+
+nano file-->It will open directly-->write data
+
+save file-->ctrl+o--->hit enter
+yes
+exit file--> ctrl +x --->to exit file
+
+
+how to create files/folders in Linux
+
+mkdir <folder>
+mkdir -p folder1 folder2 folder3 etc
+mkdir -p a/b/c/d
+
+rmdir folder
+
+touch --> to create empty files
+
+touch <filename>
+touch file1 file2 file3
+touch file{1..9}
+
+rm -rf filename
+
+
+for all files remove/delete
+
+rm -rf *
+
+cp
+mv
+cat
+tac
+head--->dislap top 10 lines
+tail-->Dispaly last 10 lines
+
+wc-->to get no of words,letters,lines
+wc filename
+wc -w filename
+wc -c filename
+wc -l filename
+
+
+more-->display data in the form pages
+less-->Dispaly data in the for m of pages additional seach feature available
+
+more filename
+less filename
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

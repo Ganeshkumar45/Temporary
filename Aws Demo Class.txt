@@ -1,0 +1,145 @@
+Aws Admin and DevOps:
+---------------------
+Cloud Computing: We can purchase the server through online, we can store the data, access the data and process the data.
+
+Computer Configuration: i5 processor, 8gb ram, 500 gb hardisk, windows 10 pro
+Server (big computer) : 100 cpu core, 100gb ram, 100tb hard disk, win dataserever
+
+facebook website --> web files --> Server  --> internet --> user
+
+Two Types of Server:
+--------------------
+On-prem Server
+Cloud Server
+
+Flip Kart Business : sell the products through online (website)
+------------------
+
+Datacenter:   3 months
+----------
+Space
+permission from government
+Servers
+Storages
+Network
+Manpower
+Equipments
+
+Vednors for Clouding Computing:
+-------------------------------
+Aws : Amazon Webservice
+Azure : Microsoft
+GCP : google cloud Platform
+digital ocean
+joyent
+salesforce cloud
+
+Two Models in Cloud Computing:
+------------------------------
+Sevice Model
+Deployment Model
+
+Three Types of Service Model:
+----------------------------
+IAAS (Infrastructure as a Service) : New Flat
+servers, storage, firewall, networking
+
+PAAS (Platform as a Service) : furnished flat
+databases : sql, mysql, cosmos db, mongo db
+
+SAAS (Software as a Service) : hotel suite
+Web Apps
+
+Three Types of Deployment Models:
+--------------------------------
+Public : Everyone can access
+ex: aws datacenter
+
+Private : Limited members can access
+ex: onprem datacenter (expensive and security)
+
+Hybrid : Combo of public and private
+ex: cloud and oprem
+
+Aws DevOps:
+------------
+
+DevOps : Dev + Ops ( Test + Prod)
+  
+         Dev        --->       QA        --->  Prod
+   (write the code)       (test the App)      (end user)
+
+SDLC (Software Development Life Cycle):
+---------------------------------------
+Waterfall Model : 3 months
+Agile Methodology  : 1 month (DevOps: CICD)
+
+             Dev        --->       QA          --->  Prod
+       (write the code)       (test the App)      (end user)
+
+
+DevOps Tools:
+-------------
+git
+Maven
+sonarqube
+nexus
+tomcat
+Jenkins
+Ansible
+Docker
+Kubernetes
+
+git: it is a repository. It is a desktop application.
+git hub: it is remote repository. It is a web application
+repository: To store the Applications or code
+
+Maven : It is a build tools.
+build: to create packages
+Java : jar, war, ear
+dotnet : .dll, .exe
+
+Sonaqube: Testing Tool
+
+Nexus : Store th Packages (artifacts)
+
+Tom cat: Web Server
+
+Jenkins : Continious Integration Tools
+
+Ansible: Configuration Tool (Manage all servers)
+
+Docker: It is a container
+
+1. To implement version difference
+2. To implement microservices
+
+Kubernetes: Container Orchestartion
+
+Types of Container Orchestration Tools:
+---------------------------------------
+Docker Swaram
+Open Shift
+Kubernetes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
